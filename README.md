@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @carlosefin
-- 👀 I’m interested in VR/AR, crypto, fintech and blockchain.
-- 🌱 I’m currently learning solidity and Rust
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 I’m interested in finance, fitness and tech
 - 📫 How to reach me:
-Mail - contacto@carlosefin.com
+Mail - carlos.estrada.contacto@gmail.com
 Socials - @carlosefin everywhere
